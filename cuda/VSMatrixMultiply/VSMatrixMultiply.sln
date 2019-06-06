@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VSMatrixMultiply", "VSMatrixMultiply\VSMatrixMultiply.vcxproj", "{23B7911D-9226-4ADD-8D3C-2DE6B912DFFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F3C25FD-2650-4801-8A4A-A06999EC3702}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B7911D-9226-4ADD-8D3C-2DE6B912DFFD}.Debug|x64.ActiveCfg = Debug|x64
+		{23B7911D-9226-4ADD-8D3C-2DE6B912DFFD}.Debug|x64.Build.0 = Debug|x64
+		{23B7911D-9226-4ADD-8D3C-2DE6B912DFFD}.Release|x64.ActiveCfg = Release|x64
+		{23B7911D-9226-4ADD-8D3C-2DE6B912DFFD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FE7903-870C-43CE-AF5F-8624EF9FD2F5}
+	EndGlobalSection
+EndGlobal

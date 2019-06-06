@@ -1,0 +1,2 @@
+class PyTrackerException(Exception):
+    pass

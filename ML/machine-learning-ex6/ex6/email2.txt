@@ -1,0 +1,73 @@
+Hey there,
+
+You know, growing up can be pretty hard.
+
+When you’re a kid, you don’t have so many responsibilities. The grown-ups around you make choices for you and help guide your decisions.
+
+You go to school and most things are decided for you: what you’re going to learn, how you’re going to learn it, who’s going to teach it to you. All you have to do is sit back and take in the information.
+
+But that doesn’t last forever.
+
+As the years go on, you become more and more responsible for your choices and your decisions. By the time you reach college, whether or not you’ll graduate with a degree is entirely up to you.
+
+And for postgraduate learners, well…
+
+Between work, family, maintaining a household, and maintaining yourself, learning a new skill as an adult can seem impossible.
+
+The hours that stretched before us as children have become cramped and scarce. Where in the world would you find the time to learn a new skill, like programming in Python?
+
+But that’s exactly what you have to do.
+
+I guess it’s more accurate to say that children have their time directed for them. Adults choose what they will do, when they will do it, and for how long.
+
+Now, as an adult, it’s your responsibility to find the time to do the things you want to do.
+
+If you want to learn Python, then you’re going to have to make the time for it.
+
+Here are a few tips you can try to help you find time to learn Python:
+
+Tip #1 is to do a time assessment. You’re going to take a good look at your time and how you’re spending it each week.
+
+Use a weekly planner or your phone to block out your fixed hours: time spent at work, with family, exercising, commuting, and relaxing.
+
+Once you see how you’re spending your time each week, you can start to look for patterns. Where are there stretches of time that aren’t being used? Are there any activities you can replace with studying?
+
+Turn these chunks of time into your Python study sessions!
+
+Tip #2 is to look for times when your body is moving, but your mind is free to wander. These are the perfect times to engage your mind, and audio-based learning resources are the perfect materials.
+
+Download lectures from your Python course to listen to at the gym.
+
+Buy audiobooks that will teach you Python on the way to work.
+
+Listen to Python podcasts that will enlighten concepts while you’re folding clothes!
+
+Taking in information in this way will give you a strong foundation for when you do focused study later.
+
+Lastly, Tip #3 is to carefully guard the time you do have.
+
+Finding time to learn Python as an adult can be difficult. You don’t want to waste it!
+
+One of the best things you can do is create a focused learning environment to help keep you on track.
+
+This could mean stopping by the library on your way home and doing an hour of coding there. It could mean keeping your headphones in while you debug on your lunch break.
+
+Or it could simply be shutting and locking the bedroom door while you study at home!
+
+Be sure to let the people in your life know that you’re learning Python, and tell them why this is important to you. Ask for their support in safeguarding your time so that you may use it to the fullest.
+
+Connect with other developers who can hold you accountable. There’s a wonderful community of coders over at the PythonistaCafé.
+
+You can join to take part in a friendly group that will help keep you on track in 2019.
+
+Take a look:
+
+? pythonistacafe.com
+
+In the end, it’s up to you to find the time to learn Python.
+
+So pull out your calendar, set a timer, or get up just a little bit earlier tomorrow.
+
+Happy New Year!
+
+— Dan 
